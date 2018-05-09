@@ -2,16 +2,12 @@ Exam program C++ elio alunno camelia
 #########################################################################################################
 Structure of directories
 
--MYFIRSTREPOSITORY 		contains C++ classes:
-	-lorentzMomentum.h
-	-particle.h
-	-split.h
--BIN 				contains the executable of the program
--MACROS 			contains the root macro
--OBJ				contains the object file
--SRC 				contains the source files of the classe
--UTIL 				contains the main program
-
+- MYFIRSTREPOSITORY contains C++ classes
+- BIN contains the executable of the program
+- MACROS	contains the root macro
+- OBJ contains the object file
+- SRC contains the source files of the classe
+- UTIL contains the main program
 Makefile
 Readme.md
 particle.dat

@@ -1,5 +1,5 @@
 Exam program C++ elio alunno camelia
-#########################################################################################################
+###############################################################################################
 Structure of directories
 
 - MYFIRSTREPOSITORY contains C++ classes
@@ -11,7 +11,11 @@ Structure of directories
 Makefile
 Readme.md
 particle.dat
-########################################################################################################
+###############################################################################################
+PREREQUISITES
+- make: sudo apt-get install build-essential
+- root: https://root.cern.ch/
+###############################################################################################
 1)Run the main program
 open a terminal and 
 - cd /MyFisrtRepository
